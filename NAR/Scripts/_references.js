@@ -12,3 +12,4 @@
 /// <reference path="MyScript.js" />
 /// <reference path="../filters/customFilters.js" />
 /// <reference path="../controllers/productListControllers.js" />
+/// <reference path="../components/cart/cart.js" />
