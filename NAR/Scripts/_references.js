@@ -14,3 +14,6 @@
 /// <reference path="../controllers/productListControllers.js" />
 /// <reference path="../components/cart/cart.js" />
 /// <reference path="../controllers/checkoutControllers.js" />
+/// <reference path="adminScript.js" />
+/// <reference path="../controllers/adminControllers.js" />
+/// <reference path="../controllers/adminProductController.js" />
